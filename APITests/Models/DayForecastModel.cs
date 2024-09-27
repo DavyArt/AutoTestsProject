@@ -9,6 +9,5 @@ namespace UITests.Models
         public long Id { get; set; }
         public string Weather_state_name { get; set; }
         public string Applicable_date { get; set; }
-        public float The_temp { get; set; }
     }
 }
