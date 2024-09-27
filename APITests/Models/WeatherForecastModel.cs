@@ -9,6 +9,5 @@ namespace UITests.Models
         public DayForecastModel[] Consolidated_weather { get; set; }
         public string Title { get; set; }
         public int Woeid { get; set; }
-        public string Latt_long { get; set; }
     }
 }
